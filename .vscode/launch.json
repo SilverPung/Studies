@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/krist/Desktop/VS/Studies/C/Podstawy",
-      "program": "c:/Users/krist/Desktop/VS/Studies/C/Podstawy/build/Debug/outDebug",
+      "cwd": "c:/Users/krist/Desktop/VS/Studies",
+      "program": "c:/Users/krist/Desktop/VS/Studies/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
